@@ -1,6 +1,6 @@
 package com.foolchen.command;
 
-import com.foolchen.command.objects.Light;
+import com.foolchen.command.model.Light;
 
 /**
  * 开灯命令<p/>

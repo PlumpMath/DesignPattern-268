@@ -1,6 +1,6 @@
 package com.foolchen.command;
 
-import com.foolchen.command.objects.GarageDoor;
+import com.foolchen.command.model.GarageDoor;
 
 /**
  * 打开车库门的命令

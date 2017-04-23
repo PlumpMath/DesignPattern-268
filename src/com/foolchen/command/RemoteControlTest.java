@@ -1,7 +1,7 @@
 package com.foolchen.command;
 
-import com.foolchen.command.objects.GarageDoor;
-import com.foolchen.command.objects.Light;
+import com.foolchen.command.model.GarageDoor;
+import com.foolchen.command.model.Light;
 
 /**
  * 测试类,用于测试遥控器

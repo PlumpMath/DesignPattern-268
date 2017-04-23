@@ -1,4 +1,4 @@
-package com.foolchen.command.objects;
+package com.foolchen.command.model;
 
 /**
  * 车库门<p/>
